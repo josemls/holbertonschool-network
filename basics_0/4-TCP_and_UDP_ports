@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Show listenting sockets 
+ss -tlnpu  
